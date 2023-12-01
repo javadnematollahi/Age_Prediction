@@ -48,4 +48,4 @@ def predict(image_path):
   plt.show()
 
 
-predict('input/faces.jpg')
+predict('input/javad.jpg')
