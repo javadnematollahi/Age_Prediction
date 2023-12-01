@@ -55,6 +55,30 @@ python Age_prediction.py
 
 https://wandb.ai/javad7189/Age_detection
 
-### Result of model on my own picture
+### Result of model on two picture:
+# INPUT:
 
-![output](https://github.com/javadnematollahi/python-assignment/assets/86910174/e97343e8-aa60-4ba5-b16c-789597e92576)
+
+![javad](https://github.com/javadnematollahi/Age_Prediction/assets/86910174/99da03df-8aa9-4a21-9bf1-6256d4f28c2d)
+
+
+
+# OUTPUT:
+
+
+![khodam](https://github.com/javadnematollahi/Age_Prediction/assets/86910174/83174945-5b2f-43c9-9cde-932970ef3d8e)
+
+
+
+# INPUT:
+
+
+![faces](https://github.com/javadnematollahi/Age_Prediction/assets/86910174/9454ab93-f5db-40c7-ba17-986a31f848dc)
+
+
+# OUTPUT:
+
+
+![faces](https://github.com/javadnematollahi/Age_Prediction/assets/86910174/f219df06-fe15-4844-8588-19c91e0c2f78)
+
+
